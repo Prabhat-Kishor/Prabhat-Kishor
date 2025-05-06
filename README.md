@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 
 - 💻 Computer Science Undergrad at Siddaganga Institute of Technology  
 - 🌟 Tech Enthusiast with experience in full-stack development, specializing in **MERN**, **React.js**, **Node.js**, and **MongoDB**  
-- 🧩 Problem Solver: Solved 300+ DSA problems on LeetCode, mainly using **C++** and **JavaScript**  
+- 🧩 Problem Solver: Solved 100+ DSA problems on LeetCode, mainly using **C++** and **JavaScript**  
 - 🎯 Always learning, building projects, and exploring new technologies
 
 ## 💡 Skills and Technologies
@@ -24,8 +24,11 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 
 ## 🔗 Connect with Me
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LINK)
+  <a href="https://www.linkedin.com/in/prabhatkishor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/prabhatkishor789s/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
-
 ⭐️ Feel free to explore my repositories, give a star ⭐️ if you like something, and let's connect!
