@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver dedi
 
 ## 💡 Skills and Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver dedi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+
 ## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prabhatkishor/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
