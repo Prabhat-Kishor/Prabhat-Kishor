@@ -1,15 +1,16 @@
 # Hi there, I'm Prabhat! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and problem solver with a love for creating impactful, scalable, and innovative solutions. Let’s build something amazing together! 🚀
+Welcome to my GitHub profile! I'm a passionate developer and problem solver dedicated to creating impactful, scalable, and innovative solutions. Let’s build something amazing together! 🚀
 
 ## 🚀 About Me
 
-- 💻 Computer Science Undergrad at Siddaganga Institute of Technology  
-- 🌟 Tech Enthusiast with experience in full-stack development, specializing in **MERN**, **React.js**, **Node.js**, and **MongoDB**  
-- 🧩 Problem Solver: Solved 100+ DSA problems on LeetCode, mainly using **C++** and **JavaScript**  
-- 🎯 Always learning, building projects, and exploring new technologies
+- 💻 **Computer Science Undergrad** at Siddaganga Institute of Technology  
+- 🌟 **Tech Enthusiast** with hands-on experience in full-stack development, specializing in **MERN** stack, **React.js**, **Node.js**, and **MongoDB**  
+- 🧩 **Problem Solver**: Successfully solved over 100 DSA problems on LeetCode, primarily using **C++** and **JavaScript**  
+- 🎯 **Lifelong Learner**: Continuously building projects and exploring new technologies to enhance my skill set
 
 ## 💡 Skills and Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -23,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/prabhatkishor/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,4 +33,5 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-⭐️ Feel free to explore my repositories, give a star ⭐️ if you like something, and let's connect!
+
+⭐️ Feel free to explore my repositories, give a star ⭐️ if you like something, and let’s connect! I’m always open to collaboration and new opportunities.
